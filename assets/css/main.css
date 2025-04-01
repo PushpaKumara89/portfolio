@@ -49,7 +49,7 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	/* ----------------------------------
    @color declaration
   ------------------------------------ */
-	--tj-body: #dddddd;
+	/* --tj-body: #dddddd;
 	--tj-white: #ffffff;
 	--tj-off-white: #f6f3fc;
 	--tj-black: #000000;
@@ -63,7 +63,25 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	--tj-grey-1: #747779;
 	--tj-grey-2: #d9d9d9;
 	--tj-grey-3: #dddddd;
-	--tj-grey-4: #22272c;
+	--tj-grey-4: #22272c; */
+
+	--tj-body: #f2f4f1;
+	--tj-white: #ffffff;
+	--tj-off-white: #f8f6f2;
+	--tj-black: #1b1f1d;
+	--tj-black-2: #2a2f2d;
+	--tj-heading-primary: #1e3a34;  /* Deep elegant green */
+	--tj-heading-secondary: #b23a48; /* Classy muted red */
+	--tj-theme-primary: #147952; /* Dark green (Main Color) */
+	--tj-theme-secondary: #2c5c4f; /* Elegant teal-green */
+	--tj-theme-accent-1: #050e05;
+	--tj-theme-accent-2: #2f5048;
+	--tj-grey-1: #808f85;
+	--tj-grey-2: #ccd4cf;
+	--tj-grey-3: #e1e6e3;
+	--tj-grey-4: #3e4843;
+
+
 	/* ----------------------------------
    @font weight declaration
   ------------------------------------ */
