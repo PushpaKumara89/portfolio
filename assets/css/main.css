@@ -1040,6 +1040,12 @@ body.loaded {
 	transition: 0.3s;
 }
 
+.hero-image-box-web {
+	top: -30px;
+	left: 100px;
+	cursor: pointer;
+}
+
 .hero-image-box img:hover {
 	border: 2px solid var(--tj-theme-primary);
 	-webkit-transform: rotate(0);
